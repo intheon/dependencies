@@ -1,0 +1,7 @@
+*.whl binary
+*.zip binary
+*.exe binary
+*.gz binary
+*.bz2 binary
+*.7z binary
+*.tar binary
